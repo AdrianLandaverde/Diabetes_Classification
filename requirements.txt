@@ -26,9 +26,9 @@ joblib==1.1.0
 llvmlite==0.39.1
 MarkupSafe==2.1.1
 numba==0.56.2
-numpy==1.21.4
+numpy
 packaging==21.3
-pandas==1.4.4
+pandas
 platformdirs==2.5.2
 plotly==5.10.0
 pyparsing==3.0.9
