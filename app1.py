@@ -96,6 +96,7 @@ figSunburstSang.update_layout(paper_bgcolor="#0f2537", font_color="white")
 # -------------------- Aplicación ------------------------
 
 app = dash.Dash(external_stylesheets=[dbc.themes.SUPERHERO])
+server= app.server
 
 app.layout = html.Div(children=[
     
